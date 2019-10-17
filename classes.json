@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Superman",
+    "type": "Strength and Conditioning",
+    "frequency": 8,
+    "trainer": "Clark Kent"
+  },
+  {
+    "name": "Power Yoga",
+    "type": "Mind and Body",
+    "frequency": 2,
+    "trainer": "Annie Kim"
+  },
+  {
+    "name": "HIIT",
+    "type": "Cardio",
+    "frequency": 3,
+    "trainer": "Ken"
+  },
+  {
+    "name": "Zumba",
+    "type": "Dance",
+    "frequency": 5,
+    "trainer": "Cory Gonzales"
+  },
+  {
+    "name": "RPM",
+    "type": "Cardio",
+    "frequency": 4,
+    "trainer": "William Avenue"
+  },
+  {
+    "name": "Body Pump",
+    "type": "Strength and Conditioning",
+    "frequency": 3,
+    "trainer": "Dan Perez"
+  },
+  {
+    "name": "Fit Hop",
+    "type": "Dance",
+    "frequency": 4,
+    "trainer": "Richard Drop"
+  },
+  {
+    "name": "Hot Yoga",
+    "type": "Mind and Body",
+    "frequency": 4,
+    "trainer": "Kimberly Chroma"
+  },
+  {
+    "name": "Jump Jump",
+    "type": "Cardio",
+    "frequency": 3,
+    "trainer": "Salim"
+  },
+  {
+    "name": "Twist Pilates",
+    "type": "Mind and Body",
+    "frequency": 3,
+    "trainer": "Julianna Ang"
+  },
+  {
+    "name": "Body Combat",
+    "type": "Strength and Conditioning",
+    "frequency": 1,
+    "trainer": "Dan Perez"
+  },
+  {
+    "name": "Break Dance",
+    "type": "Dance",
+    "frequency": 1,
+    "trainer": "Martin Trident"
+  }
+]
